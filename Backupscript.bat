@@ -1,7 +1,7 @@
 REM -------------------------------------------------------------------------
 REM Copyright (c) IT Javarock. All Rights Reserved.
 REM Web: Javarock.de 
-REM Head-Developer: JuniorJacki#8126
+REM Developer: JuniorJacki#4534
 REM -------------------------------------------------------------------------
 
 
