@@ -1,10 +1,3 @@
-REM -------------------------------------------------------------------------
-REM Copyright (c) IT Javarock. All Rights Reserved.
-REM Web: Javarock.de 
-REM Developer: JuniorJacki#4534
-REM -------------------------------------------------------------------------
-
-
 @echo off
 
 for /f "skip=1" %%i in ('wmic os get localdatetime') do if not defined fulldate set fulldate=%%i
